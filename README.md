@@ -1,6 +1,6 @@
-# matlabRoomba1 This matlab simulink library os for matlab 2017b
+# This matlab simulink library is for matlab 2016b
 Digital Controls Project 1
-# below is a command. Maybe insert a video or picture but it has to be an online image
+# Attached is the simulink library designed in this project. The library enables a user to determine whether any of the six infared sensors of a Roomba have been obstructed. It also allows the user to control the velocity of the wheels on the Roomba. 
 '''
 >>>simulink 
 
